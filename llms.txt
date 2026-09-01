@@ -41,6 +41,12 @@ OPC does not claim fake case-study results. The site should preserve honest lang
 
 - Retargeting for Local Service Businesses: https://omniprocessconsulting.com/retargeting-for-local-service-businesses.html
 
+## Small Business Tracking Authority Guides
+- How To Install Google Analytics On A Small Business Website: https://omniprocessconsulting.com/blog/install-google-analytics-small-business-website/
+- Google Tag vs Google Tag Manager vs Google Analytics: What Small Businesses Actually Need: https://omniprocessconsulting.com/blog/google-tag-vs-google-tag-manager-vs-google-analytics/
+- The Small Business Website Tracking Checklist Before Running Ads: https://omniprocessconsulting.com/blog/small-business-website-tracking-checklist-before-ads/
+- How To Set Up Google Search Console For A Small Business Website: https://omniprocessconsulting.com/blog/set-up-google-search-console-small-business-website/
+
 ## OPC Easter Egg
 
    OOOOOOOOOOOOO      PPPPPPPPPPPPP      CCCCCCCCCCCCC
